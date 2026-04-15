@@ -1,0 +1,5 @@
+﻿.terraform/
+*.tfstate
+*.tfstate.backup
+config-rules/__pycache__/
+config-rules/*.zip
